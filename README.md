@@ -92,13 +92,17 @@ A continuación algunos de los datos directos de la terminal de Bloomberg que fu
 
 
 **Opción Vanilla AAPL**
+
 <img width="803" height="504" alt="Captura de pantalla 2025-10-26 a la(s) 3 04 08 p m" src="https://github.com/user-attachments/assets/d9b9551d-112c-4233-9b53-af102d8c4f13" />
 
 **Smile AAPL**
+
 <img width="860" height="534" alt="Captura de pantalla 2025-10-26 a la(s) 3 00 26 p m" src="https://github.com/user-attachments/assets/9a7466ae-1840-42cf-86b7-be905400889f" />
 
 **Futuro del Cobre**
+
 <img width="307" height="449" alt="Captura de pantalla 2025-10-26 a la(s) 4 06 22 p m" src="https://github.com/user-attachments/assets/5a51a6a6-ea02-4ada-89ca-67001dec78e7" />
 
 **EURUSD**
+
 <img width="289" height="449" alt="Captura de pantalla 2025-10-26 a la(s) 4 06 29 p m" src="https://github.com/user-attachments/assets/7950103b-5e31-4219-a433-f3f21d08fddb" />
